@@ -16,6 +16,7 @@
         android:id="@+id/note_add"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:src="@drawable/ic_add_note"
         app:fabSize="normal"
         android:importantForAccessibility="no"
         android:layout_gravity="bottom|end"
